@@ -1,7 +1,7 @@
 import unittest
 
 
-from earliest import get_earliest
+from ex_earliest.earliest import get_earliest
 
 
 class GetEarliestTests(unittest.TestCase):

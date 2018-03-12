@@ -6,7 +6,7 @@ def earliest_solution(date_1, date_2):
 
         :param date_one: string of first date
         :param date_two: string of second date
-        :return: string of the earliest date
+        :return: string of the ex_earliest date
         '''
 
     month_one, day_one, year_one = date_1.split("/")

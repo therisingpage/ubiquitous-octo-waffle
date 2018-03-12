@@ -2,7 +2,7 @@
 def get_earliest(date_one, date_two):
     '''
     This function will compare two dates
-    and return the earliest date of the two
+    and return the ex_earliest date of the two
 
     Normally, we should be able to use datetime, however,
     we want to include weird dates too, the function should also be able to take in

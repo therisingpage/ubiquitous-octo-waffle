@@ -1,13 +1,13 @@
 import unittest
 
 
-from countwords.count import count_words
-# from countwords.count_words_solution import count_words - Uncomment this for test case
+from ex_count.count import count_words
+# from ex_count.count_words_solution import count_words - Uncomment this for test case
 
 
 class CountWordsTests(unittest.TestCase):
 
-    """Tests for countwords."""
+    """Tests for count."""
 
     def test_simple_sentence(self):
         actual = count_words("oh what a day what a lovely day")
