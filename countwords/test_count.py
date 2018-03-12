@@ -1,7 +1,8 @@
 import unittest
 
 
-from count import count_words
+from countwords.count import count_words
+# from countwords.count_words_solution import count_words - Uncomment this for test case
 
 
 class CountWordsTests(unittest.TestCase):
