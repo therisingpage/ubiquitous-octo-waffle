@@ -1,7 +1,6 @@
 import unittest
 
-
-from compact import compact
+from ex_compact.compact import compact
 
 
 class CompactTests(unittest.TestCase):

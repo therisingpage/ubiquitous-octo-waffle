@@ -1,7 +1,6 @@
 import unittest
 
-
-from tail import tail
+from ex_tail.tail import tail
 
 
 class TailTests(unittest.TestCase):

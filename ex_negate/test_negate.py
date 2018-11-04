@@ -1,6 +1,6 @@
 import unittest
 
-from negate import negate
+from ex_negate.negate import negate
 
 
 class NegateTests(unittest.TestCase):
